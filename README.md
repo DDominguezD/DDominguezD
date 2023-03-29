@@ -36,4 +36,4 @@ Hola! soy Diego Dominguez, estudiante de ingeniería civil matemática en la Uni
 - 🔭 Actualmente me encuentro aprendiendo sobre machine learning y su relación con distintas áreas de la matemática, tales como la optimización y la estadística. 
 - 🌱 Me interesa aprender más sobre Deep Learning, procesamiento de lenguaje natural y computación en la nube.
 - 😄 Mis hobbies son jugar videojuegos, hacer deporte como el atletismo y explorar historias.
-- 📫 Contacto [diego7dominguez7@gmail.com](diego7dominguez7@gmail.com).
+- 📫 Contacto [diego.dominguez.d@ug.uchile.cl](diego.dominguez.d@ug.uchile.cl).
