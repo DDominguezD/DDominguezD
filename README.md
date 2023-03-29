@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hola! mi nombre es Diego Dominguez, estudiante de ingeniería civil matemática en la Universidad de Chile, y entuciasta de 
-
 Hola! soy Diego Dominguez, estudiante de ingeniería civil matemática en la Universidad de Chile, con un gran interés en la ciencia de datos. Estoy comprometido en aprender y mejorar mis habilidades en esta área, así que espero poder contribuir con varios proyectos en este repositorio. 
 
 
