@@ -20,7 +20,7 @@ Hola! soy Diego Dominguez, estudiante de ingeniería civil matemática en la Uni
 <br>
 
 <p align="center">
-    <a href="www.linkedin.com/in/diego-dominguez-d/">
+    <a href="https://www.linkedin.com/in/diego-dominguez-d/">  
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
     <a href="mailto:diego.dominguez.d@ug.uchile.cl">
