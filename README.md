@@ -26,7 +26,7 @@ Hola! soy Diego Dominguez, estudiante de ingeniería civil matemática en la Uni
     <a href="mailto:diego.dominguez.d@ug.uchile.cl">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
-    <a href="CV.pdf">
+    <a href="CV_Diego_Dominguez.pdf">
         <img src="https://img.shields.io/badge/Resume-Blue?style=for-the-badge&logoColor=white"/>
     </a>
 </p>
